@@ -25,10 +25,10 @@ CSS: For styling components and ensuring a pleasant user experience.
 
 How to Run the Project Locally:
 Clone the repository:
-git clone [YOUR_REPO_URL]
+git clone [https://github.com/maksymrozvodovskyi/Dataforce.git]
 
 Navigate to the project directory:
-cd [FOLDER_NAME]
+cd [ml-experiment-viewer]
 
 Install dependencies:
 npm install
