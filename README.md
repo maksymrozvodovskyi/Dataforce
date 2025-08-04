@@ -36,4 +36,4 @@ npm install
 Run the application in development mode:
 npm run dev
 
-The application will be available at http://localhost:5173.
+The application will be available at [https://dataforce-y2jm-6yq8mmiii-komorys-projects.vercel.app/]
